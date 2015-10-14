@@ -1,6 +1,6 @@
 <?php
 /**
- * @link http://www.yiiframework.com/marcelinoAragon
+ * @link http://www.yiiframework.com/marcelinoTodasMias
  * @copyright Copyright (c) 2008 Yii Software LLC
  * @license http://www.yiiframework.com/license/
  */
